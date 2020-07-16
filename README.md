@@ -1,4 +1,4 @@
-# odetlite
+# Odetlite App
 
 A new Flutter application.
 
